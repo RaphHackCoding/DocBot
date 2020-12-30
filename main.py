@@ -30,3 +30,4 @@ async def delete(ctx, number: int):
 
 
 bot.run(os.getenv("TOKEN"))
+Cookies
